@@ -6,7 +6,7 @@
 
 <h2 alt='#techStack'>⚡️ Tecnologias Utilizadas</h2>
 <ul>
-  <li><a href='https://html.com/' target="_blank" rel="noopener noreferrer">HTML and CSS</a></li>
+  <li><a href='https://html.com/'>HTML and CSS</a></li>
 </ul><br>
 
 <h2 title='#appDemo'>💻 Demonstração do Aplicativo</h2>
