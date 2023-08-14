@@ -61,3 +61,5 @@ $ git clone https://github.com/MarcosCucoro/InstagramCopy.git
 # Para acessar a home, basta clicar em 'Entrar' ou 'Entrar com Facebook', você será direcionado para a home.
 ```
 </div>
+
+

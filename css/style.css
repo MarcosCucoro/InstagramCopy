@@ -8,16 +8,17 @@
 
 body {
     background-color: #fafafa;
-}
-
-main {
-    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
 }
 
 /* Containers */
 #main-container {
     display: flex;
-    margin-bottom: 30px;
+    gap: 1rem;
 }
 
 #banner-container,
